@@ -121,5 +121,6 @@ except Exception as e:
 - Thanks to the NumPy community for the excellent array operations library
 
 ## Contact
-Your Name - niharsanoria80@gmail.com
+Email - niharsanoria80@gmail.com
+
 Project Link: https://github.com/NiharSanoria1/linear_regression
